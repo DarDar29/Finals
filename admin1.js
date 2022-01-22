@@ -10,7 +10,7 @@ function login(){
     
     
    if(uname=="admin" && upass=="123"){
-    location.href = "admin.html";
+    location.href = "Admin.html";
    }else{
     window.alert("Invalid Login");
    }
